@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hayden 👋</h1>
+<h1 align="center">Hi, I'm Chenchen Hong 👋</h1>
 
 <p align="center">
   <em>AI Infrastructure &middot; MLSys &middot; Compilers</em>
