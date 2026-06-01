@@ -39,7 +39,7 @@
 ### 📫 Reach me
 
 - 📧 **Email**: chongyue.cc@gmail.com
-- 💼 **LinkedIn**: <!-- TODO: add LinkedIn URL -->
+- 💼 **LinkedIn**: [Chenchen Hong](https://www.linkedin.com/in/chenchen-hong-129432412/)
 - 🐦 **X / Twitter**: [@HaydenCC](https://x.com/HaydenCc51623)
 - ✍️ **Blog**: <!-- TODO: add blog URL -->
 
