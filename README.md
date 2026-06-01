@@ -40,7 +40,7 @@
 
 - 📧 **Email**: chongyue.cc@gmail.com
 - 💼 **LinkedIn**: <!-- TODO: add LinkedIn URL -->
-- 🐦 **X / Twitter**: <!-- TODO: add handle -->
+- 🐦 **X / Twitter**: [@HaydenCc51623](https://x.com/HaydenCc51623)
 - ✍️ **Blog**: <!-- TODO: add blog URL -->
 
 ---
