@@ -13,7 +13,7 @@
 
 ### 🚀 What I work on
 
-- **Multimodal & LLM Inference Infrastructure** *(main focus)* — performance engineering for multimodal and LLM serving stacks (SGLang, vLLM): model integration, scheduling, memory efficiency, and throughput/latency optimization.
+- **Multimodal & LLM Inference Infrastructure** *(main focus)* — performance engineering for multimodal serving on **SGLang-omni**, alongside LLM serving stacks (SGLang, vLLM): model integration, scheduling, memory efficiency, and throughput/latency optimization.
 - **RL Infrastructure** — systems and tooling for reinforcement learning workloads: training/inference orchestration, rollout, and scaling.
 - **Kernel Compiler Optimization** — compiler-driven kernel optimization for ML workloads: codegen, graph-level transformations, and automatic kernel generation/tuning (Triton, CUDA) on NVIDIA Hopper (H100) and Blackwell (B200).
 
