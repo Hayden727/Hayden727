@@ -14,8 +14,7 @@
 ### 🚀 What I work on
 
 - **MLSys & Inference Serving** — performance engineering for LLM serving stacks (SGLang, vLLM): model integration, scheduling, memory efficiency, and throughput/latency optimization.
-- **GPU Kernel Optimization** — CUDA / Triton kernels for NVIDIA Hopper (H100) and Blackwell (B200): attention, GEMM, MoE, and quantized paths.
-- **Compilers & Code Generation** — kernel codegen, graph-level transformations, and compiler-driven optimization for ML workloads.
+- **Kernel Compiler Optimization** — compiler-driven kernel optimization for ML workloads: codegen, graph-level transformations, and automatic kernel generation/tuning (Triton, CUDA) on NVIDIA Hopper (H100) and Blackwell (B200).
 
 ### 🛠️ Tech & Tools
 
