@@ -16,7 +16,6 @@
 - **MLSys & Inference Serving** — performance engineering for LLM serving stacks (SGLang, vLLM): model integration, scheduling, memory efficiency, and throughput/latency optimization.
 - **GPU Kernel Optimization** — CUDA / Triton kernels for NVIDIA Hopper (H100) and Blackwell (B200): attention, GEMM, MoE, and quantized paths.
 - **Compilers & Code Generation** — kernel codegen, graph-level transformations, and compiler-driven optimization for ML workloads.
-- **Graph Neural Networks** — memory-efficient GNN training and inference (research on accumulative-subgraph training and pruning-based inference).
 
 ### 🛠️ Tech & Tools
 
