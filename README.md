@@ -43,7 +43,7 @@
 - 🐦 **X / Twitter**: [@HaydenCC](https://x.com/HaydenCc51623)
 - ✍️ **Blog**: [hayden727.github.io](https://hayden727.github.io/)
 
-Feel free to touch me on WeChat: hayden-gai.
+  Feel free to touch me on WeChat: hayden-gai.
 ---
 
 [![Weekly Issue Arena](https://claudiotancredi.github.io/weekly-issue-arena/badges/Hayden727.svg)](https://claudiotancredi.github.io/weekly-issue-arena/player/Hayden727/)
