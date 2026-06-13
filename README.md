@@ -42,7 +42,7 @@
 - 💼 **LinkedIn**: [Chenchen Hong](https://www.linkedin.com/in/chenchen-hong-129432412/)
 - 🐦 **X / Twitter**: [@HaydenCC](https://x.com/HaydenCc51623)
 - ✍️ **Blog**: [hayden727.github.io](https://hayden727.github.io/)
-
+- **wechat**：[Hayden](hayden-gai)
 ---
 
 [![Weekly Issue Arena](https://claudiotancredi.github.io/weekly-issue-arena/badges/Hayden727.svg)](https://claudiotancredi.github.io/weekly-issue-arena/player/Hayden727/)
