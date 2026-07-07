@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>AI Infrastructure &middot; MLSys &middot; Compiler Systems</strong><br/>
-  Large-model serving performance across kernels, schedulers, and distributed inference.
+  <sub>Large-model serving performance across kernels, schedulers, and distributed inference.</sub>
 </p>
 
 <p align="center">
@@ -13,37 +13,19 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
----
-
 <table>
-  <thead>
-    <tr>
-      <th align="left" width="32%">Focus</th>
-      <th align="left" width="68%">Work</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td valign="top">
-        <strong>Multimodal &amp; LLM inference</strong>
+      <td valign="top" width="33%">
+        <strong>Inference systems</strong><br/>
+        Multimodal and LLM serving across SGLang-omni, SGLang, and vLLM.
       </td>
-      <td valign="top">
-        SGLang-omni, SGLang, and vLLM serving performance: scheduling, memory efficiency, and model integration.
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <strong>RL infrastructure</strong>
-      </td>
-      <td valign="top">
+      <td valign="top" width="34%">
+        <strong>RL systems</strong><br/>
         Training/inference orchestration, rollout systems, and scaling workflows.
       </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <strong>Kernel &amp; compiler optimization</strong>
-      </td>
-      <td valign="top">
+      <td valign="top" width="33%">
+        <strong>Compiler kernels</strong><br/>
         Triton/CUDA kernels, graph optimization, and code generation for H100/B200-class GPUs.
       </td>
     </tr>
