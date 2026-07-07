@@ -18,18 +18,15 @@
     <tr>
       <td valign="top" width="33%">
         <strong>Inference systems</strong><br/>
-        SGLang-omni &middot; SGLang &middot; vLLM<br/>
-        Serving, scheduling, and memory efficiency.
+        SGLang-omni, SGLang, and vLLM serving; scheduling and memory efficiency.
       </td>
       <td valign="top" width="34%">
         <strong>RL systems</strong><br/>
-        Rollout &middot; orchestration &middot; scaling<br/>
-        Training and inference infrastructure.
+        Rollout orchestration, training/inference infrastructure, and scaling workflows.
       </td>
       <td valign="top" width="33%">
         <strong>Compiler kernels</strong><br/>
-        Triton &middot; CUDA &middot; H100/B200<br/>
-        Kernel codegen and graph optimization.
+        Triton/CUDA kernels, H100/B200 tuning, codegen, and graph optimization.
       </td>
     </tr>
   </tbody>
