@@ -5,32 +5,46 @@
   Large-model serving performance across kernels, schedulers, and distributed inference.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Triton-EE4C2C?style=flat&logo=openai&logoColor=white" alt="Triton" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
+
 ---
 
 <table>
   <thead>
     <tr>
-      <th align="left" width="58%">Focus</th>
-      <th align="left" width="42%">Toolkit</th>
+      <th align="left" width="32%">Focus</th>
+      <th align="left" width="68%">Work</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td valign="top">
-        <strong>Multimodal &amp; LLM inference</strong><br/>
-        SGLang-omni, SGLang, and vLLM serving performance: scheduling, memory efficiency, and model integration.<br/><br/>
-        <strong>RL infrastructure</strong><br/>
-        Training/inference orchestration, rollout systems, and scaling workflows.<br/><br/>
-        <strong>Kernel &amp; compiler optimization</strong><br/>
-        Triton/CUDA kernels, graph optimization, and code generation for H100/B200-class GPUs.
+        <strong>Multimodal &amp; LLM inference</strong>
       </td>
       <td valign="top">
-        <strong>Core stack</strong><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA" />
-        <img src="https://img.shields.io/badge/Triton-EE4C2C?style=flat&logo=openai&logoColor=white" alt="Triton" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+        SGLang-omni, SGLang, and vLLM serving performance: scheduling, memory efficiency, and model integration.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <strong>RL infrastructure</strong>
+      </td>
+      <td valign="top">
+        Training/inference orchestration, rollout systems, and scaling workflows.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <strong>Kernel &amp; compiler optimization</strong>
+      </td>
+      <td valign="top">
+        Triton/CUDA kernels, graph optimization, and code generation for H100/B200-class GPUs.
       </td>
     </tr>
   </tbody>
