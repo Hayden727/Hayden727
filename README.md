@@ -24,7 +24,7 @@ Python · C++ · CUDA · Triton · PyTorch
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hayden727&show_icons=true&hide_border=true&hide_title=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Hayden727&show_icons=true&hide_border=true&hide_title=true" alt="GitHub stats" />
 </p>
 
 ### Reach me
